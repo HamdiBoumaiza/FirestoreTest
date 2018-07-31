@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirestoreTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="add_a_hotel">Add a Hotel</string>
+    <string name="city">City</string>
+    <string name="adress">Adress</string>
+    <string name="stars">Stars</string>
+    <string name="submit">Submit</string>
+    <string name="add_name">Please Add the name of the hotel</string>
+    <string name="add_city">Please Add the city of the hotel</string>
+    <string name="add_address">Please Add the address of the hotel</string>
+    <string name="add_stars">Please Add the stars of the hotel</string>
+    <string name="hotel_saved">Hotel saved succesfully</string>
+    <string name="error_saving">an error occured while saving the informations</string>
+    <string name="hotels">Hotels</string>
+</resources>
